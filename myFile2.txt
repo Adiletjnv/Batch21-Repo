@@ -1,1 +1,8 @@
 its same thing as a 1st
+more staff has been added
+we are cloning
+remote local
+making some changes
+committing the changes
+pushing it back to
+remote repository
